@@ -1,3 +1,8 @@
+@extends('layouts.admin.app', [
+    'title' => 'Dashboard'
+])
+
+
 @extends('layouts.admin.app')
 @section('contents')
 <!-- Content -->
